@@ -52,7 +52,7 @@ class Timing
     }
 
     // Returns total execution time
-    public function getTotalExecutionTime()
+    public function getTotalExecutionTime(): bool
     {
         if (!$this->stop_time) {
             return false;
