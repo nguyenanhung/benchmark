@@ -25,9 +25,6 @@
     "autoload": {
         "psr-4": {
             "nguyenanhung\\Bear\\Benchmark\\": "src/"
-        },
-        "files": [
-            "helpers/helpers.php"
-        ]
+        }
     }
 }
