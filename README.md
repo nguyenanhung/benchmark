@@ -1,4 +1,8 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/benchmark/v)](https://packagist.org/packages/nguyenanhung/benchmark) [![Total Downloads](http://poser.pugx.org/nguyenanhung/benchmark/downloads)](https://packagist.org/packages/nguyenanhung/benchmark) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/benchmark/v/unstable)](https://packagist.org/packages/nguyenanhung/benchmark) [![License](http://poser.pugx.org/nguyenanhung/benchmark/license)](https://packagist.org/packages/nguyenanhung/benchmark) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/benchmark/require/php)](https://packagist.org/packages/nguyenanhung/benchmark)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/benchmark.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/benchmark)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/benchmark.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/benchmark)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/benchmark.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/benchmark)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/benchmark/php)](https://packagist.org/packages/nguyenanhung/benchmark)
+
 
 # Benchmark Helper
 
